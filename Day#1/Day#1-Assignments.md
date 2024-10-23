@@ -62,11 +62,12 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/40be42b3-f133-489e-9de1-25a9c8e67637)
+> https://github.com/SanthoshNC/22AM0XE-Assignments/forks?page=2
 
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> https://www.linkedin.com/posts/sri-sarathi-515020260_machinelearning-cloudcomputing-aws-activity-7254916803556986880-ZzbZ?utm_source=share&utm_medium=member_ios
 
 ***
