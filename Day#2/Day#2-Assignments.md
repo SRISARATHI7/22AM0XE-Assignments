@@ -26,13 +26,13 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-![image](https://github.com/user-attachments/assets/287f24e9-1128-46f4-8f6d-f34f0679438f)
-
+>![image](https://github.com/user-attachments/assets/ac51bf84-7ec9-4744-9079-6fbb23984550)
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+> ![Screenshot 2024-10-23 221804](https://github.com/user-attachments/assets/35e50144-682e-49c6-898f-10d53e843667)
+
 
 ***
 
@@ -67,6 +67,6 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> https://www.linkedin.com/posts/sri-sarathi-515020260_machinelearning-cloudcomputing-aws-activity-7254916803556986880-ZzbZ?utm_source=share&utm_medium=member_ios
 
 ***
