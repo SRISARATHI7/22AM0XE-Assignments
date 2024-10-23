@@ -43,9 +43,21 @@
 - For example:
 - Amazon Prime (Hosted on AWS)
   - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+  - Details: A popular streaming service offering a vast ........................................................................000collection of movies, TV shows, and exclusive content to users worldwide.
 
 > Add your answer here!
+>
+> Netflix (Hosted on AWS)
+> logo:![image](https://github.com/user-attachments/assets/08cd144c-91d2-481d-a8c2-788c3a99e545)
+
+> Details: Netflix is one of the leading streaming platforms globally, providing a wide array of movies, TV series, documentaries, and exclusive original content. AWS supports its high scalability needs for content delivery, user data management, and storage.
+>
+> Zoom (Hosted on Oracle Cloud)
+> logo:![image](https://github.com/user-attachments/assets/2f011650-87ab-4d6d-bf5b-9978a3c53226)
+
+>
+> Details: Zoom is a video conferencing platform that became extremely popular, especially during the COVID-19 pandemic. It utilizes Oracle Cloud to ensure secure and reliable communication, with a focus on scalability to support its millions of users.
+
 
 ***
 
