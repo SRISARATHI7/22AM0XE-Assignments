@@ -24,23 +24,19 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+> ![Screenshot 2024-10-23 221540](https://github.com/user-attachments/assets/62bed066-cdaa-4a43-966d-5c324ccba289)
+
 
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/8e92cec8-34a0-43cb-bc6d-9d0467b74e4c)
+
 
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
-> - Create a new Google Colab notebook.
-> - Write Python code to print "Hello, World!" in the notebook.
-> - Import the NumPy library and create a 2x2 matrix, then print it.
-> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> https://colab.research.google.com/drive/1691BspsVtuO8JFDoS4mcVN7fomYU2vz8?authuser=0#scrollTo=_oYB5xqZcsfJ
 
 ***
 
