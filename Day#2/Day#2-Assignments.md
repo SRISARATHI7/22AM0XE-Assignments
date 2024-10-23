@@ -26,7 +26,8 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
->![image](https://github.com/user-attachments/assets/ac51bf84-7ec9-4744-9079-6fbb23984550)
+>![Screenshot 2024-10-23 220616](https://github.com/user-attachments/assets/c69f15dd-919e-4f41-9591-1eb7072f0186)
+
 
 ***
 
@@ -63,7 +64,7 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> https://github.com/SRISARATHI7/22AM0XE-Assignments/blob/7376222al208/Sri-Sarathi-M/Day%232/summary.md
 
 ***
 
